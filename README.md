@@ -46,4 +46,5 @@ Welcome to my GitHub profile! I am a **Computer Science & Engineering** student 
 🔗 **LinkedIn**: [vivekojha02](https://www.linkedin.com/in/vivekojha02)  
 🔗 **Twitter**: [VivekOjha3018](https://x.com/VivekOjha3018)  
 🔗 **Bio.link**: [bio.link/ojha](https://bio.link/ojha)
+🔗 **EMAIL**: vivekojha02@yahoo.com
 
