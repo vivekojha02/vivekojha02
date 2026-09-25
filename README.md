@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a **Computer Science & Engineering** student 
 🔹 **[WhatsApp Chat Analyzer](https://github.com/vivekojha02/whatsappChatAnalyzer)** – Extracts insights from chat data using Python. 
     **Tech Used:** Python, Pandas, Matplotlib, Seaborn, NLTK, Streamlit
     
-🔹 **LSB Crypto** – Advanced **image steganography** for secure communication.  
+🔹 **LSB ** – Advanced **image steganography** for secure communication.  
     **Tech Used:** Python, OpenCV, NumPy, PIL, Flask
     
 🔹 **Quality Prediction Model (ML)**  
